@@ -3490,11 +3490,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "LeituraNome",
-      "projectName": "LeituraNome",
-      "projectPath": "C:\\Projetos\\UIPath\\LeituraNome\\.local",
+      "projectUniqueName": "Projeto Estudante",
+      "projectName": "Projeto Estudante",
+      "projectPath": "C:\\Projetos\\UIPath\\LeituraNome\\UIPath2\\.local",
       "packagesPath": "C:\\Users\\Fellipe\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\UIPath\\LeituraNome\\.local"
+      "outputPath": "C:\\Projetos\\UIPath\\LeituraNome\\UIPath2\\.local"
     },
     "frameworks": {
       "net461": {
